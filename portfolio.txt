@@ -1,0 +1,4 @@
+Username: Atharva
+Balance: 9250.0
+Portfolio:
+AAPL 5
